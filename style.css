@@ -53,3 +53,7 @@ h2 a:link, li a:hover, li a:active, li a:visited {
 h2 a:hover {
 	text-decoration: underline;
 	font-weight: bold;
+
+.id {
+	text-align: center;
+}
