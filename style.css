@@ -3,8 +3,6 @@ body{
 	color: #fff;
 }
 
-#Metroid_Prime_Menu.jpg
-
 header{
 	text-align: center;
 }
@@ -44,7 +42,7 @@ article {
 
 article img {
     max-width: 75%;
-    float: middle;
+    
 }
 
 h2 a:link, li a:hover, li a:active, li a:visited {
