@@ -35,9 +35,9 @@ li a:hover {
 }
 
 article {
-    width: 45%; 
+    width: 100%; 
    text-align: center;
-    margin: 1%;
+    margin: auto;
 }
 
 article img {
