@@ -15,20 +15,19 @@ header{
 nav {
 	background-color: #fff;
 	padding: 5px;
-	font-family: Arial, Serif;
 }
 
 nav ul {
 	list-style-type: none;
 	text-align: center;
-	font-family: Arial, Serif;
-	color: #fff;
 }
 
 nav ul li {
 	display: inline-block;
 	margin: 0 10px;
 	font-size: 20px;
+	font-family: Arial, Serif;
+	color: #fff;
 }
 
 li a:link, li a:hover, li a:active, li a:visited {
