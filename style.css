@@ -1,6 +1,7 @@
 body{
-	background-color: #FFA500;
+	background-color: #0090C1;
 	color: #fff;
+	text-align: center;
 }
 
 header{
@@ -54,4 +55,8 @@ h2 a:link, li a:hover, li a:active, li a:visited {
 h2 a:hover {
 	text-decoration: underline;
 	font-weight: bold;
+}
+
+main {
+	text-align: center;
 }
