@@ -1,8 +1,12 @@
 body{
-	background-color: #0090C1;
+	font-family: Arial, Serif;
 	color: #fff;
 	text-align: center;
+	background-image: url("Images/Planet.jpg");
+    background-attachment: fixed;
+    background-position: center;
 }
+
 
 header{
 	text-align: center;
@@ -11,6 +15,7 @@ header{
 nav {
 	background-color: #fff;
 	padding: 5px;
+	font-family: Arial, Serif;
 }
 
 nav ul {
