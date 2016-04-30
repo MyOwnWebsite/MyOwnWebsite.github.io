@@ -21,6 +21,8 @@ nav {
 nav ul {
 	list-style-type: none;
 	text-align: center;
+	font-family: Arial, Serif;
+	color: #fff;
 }
 
 nav ul li {
